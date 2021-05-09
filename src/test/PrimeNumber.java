@@ -2,10 +2,15 @@ package test;
 
 import java.util.Scanner;
 
+import oopsConcepts.ClassA;
+
 public class PrimeNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		
+		
 		
  // TODO Auto-generated method stub
         
@@ -28,11 +33,13 @@ public class PrimeNumber {
         }
         //If isPrime is true then the number is prime else not
         if(isPrime)
-           System.out.println("Number is Prime : " + num);
+           System.out.println("Number is Prime num : " + num);
         else
            System.out.println("Number is not Prime : " + num);
        
-    }
+    	}
+	
+	
 
 }
 
