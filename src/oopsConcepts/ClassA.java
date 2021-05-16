@@ -31,5 +31,7 @@ public class ClassA {
 		System.out.println("Salary of Emp: " + Salary);
 		
 	}
+	
+	
 
 }
