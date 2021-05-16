@@ -41,6 +41,8 @@ public class CollectionsExample {
 		mystack.pop();
 		
 		System.out.println(mystack);
+		
+		//some changes
 
 	}
 
